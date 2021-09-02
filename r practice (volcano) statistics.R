@@ -1,0 +1,11 @@
+evolcano<-datasets::volcano
+head(evolcano,5)
+tail(evolcano,5)
+evolcano[,c(1,2)]
+df<-evolcano[,2]
+ecars$speed
+summary(evolcano,v1)
+summary(evolcano)
+plot(evolcano)
+barplot(evolcano)
+hist(evolcano)
